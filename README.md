@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hey there, I am using WhatsApp 👋</h3>
+  <h3>Hey there, I am using React 👋</h3>
   
   <p>🌱 I’m currently learning React, React Native, JS, HTML, CSS</p>
   
