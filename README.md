@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hey there, I am using React 👋</h3>
   
-  <p>🌱 I’m currently learning React, React Native, JS, HTML, CSS</p>
+  <p>🌱 I’m currently learning React, React Native, JavaScript, TypeScript, HTML, CSS</p>
   
   <p>📫 LinkedIn : melihcengelli </p><br>
   
